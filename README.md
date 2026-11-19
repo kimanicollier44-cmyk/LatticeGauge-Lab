@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](LatticeGauge-Lab%20cover.png)
 
 # LatticeGauge-Lab 🧲⚛️
 
